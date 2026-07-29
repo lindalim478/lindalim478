@@ -15,16 +15,16 @@ models that are physically consistent and predictive.
 
 ## 📌 Featured projects
 
-- **[UnifiedResponse](https://github.com/lindalim478/unifiedresponse-demo)** —
-  Multi-agency emergency-response coordination demo (CAD, AVL, traffic signals,
-  and V2X) fused into one operational picture on a real map.
-  **[▶ Launch the live simulation](https://lindalim478.github.io/unifiedresponse-demo/)**
 - **[LinkstoNetworksKMD-CTM](https://github.com/lindalim478/LinkstoNetworksKMD-CTM)** —
   Hankel-DMD / Koopman traffic-speed forecasting on a road network, with a Cell
   Transmission Model correction step to keep predictions physically consistent.
 - **[CA_DMV_CollisionsPaper](https://github.com/lindalim478/CA_DMV_CollisionsPaper)** —
   Analysis of California DMV autonomous-vehicle collision and disengagement
   reports, joined with census demographics for spatial and equity analysis.
+- **[UnifiedResponse](https://github.com/lindalim478/unifiedresponse-demo)** —
+  Multi-agency emergency-response coordination demo (CAD, AVL, traffic signals,
+  and V2X) fused into one operational picture on a real map.
+  **[▶ Launch the live simulation](https://lindalim478.github.io/unifiedresponse-demo/)**
 - **[getschoolled](https://github.com/lindalim478/getschoolled)** —
   Collaborative full-stack web application (TypeScript/React). As a Frontend
   Engineer, I built and contributed frontend features and UI components.
