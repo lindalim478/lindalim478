@@ -28,9 +28,3 @@ consistent** and **predictive**.
 - **[CA_DMV_CollisionsPaper](https://github.com/lindalim478/CA_DMV_CollisionsPaper)** —
   Analysis of California DMV autonomous-vehicle collision and disengagement
   reports, joined with census demographics for spatial and equity analysis.
-
-## 📫 Connect
-<!-- Fill these in to complete your profile -->
-- LinkedIn: <!-- https://www.linkedin.com/in/your-handle -->
-- Email: <!-- your.email@berkeley.edu -->
-- Website / Scholar: <!-- link to your personal site or Google Scholar -->
