@@ -1,13 +1,9 @@
 # Hi, I'm Linda Lim 👋
 
-PhD Researcher at UC Berkeley (Systems &
-Transportation). I build clean, user-focused web interfaces and I do research at
-the intersection of autonomous-vehicle safety, intersection traffic-flow
-modeling, control theory, and data-driven methods.
-
-I enjoy shipping frontend experiences as much as I enjoy turning messy
-real-world transportation data into models that are both physically
-consistent and predictive.
+PhD Researcher at UC Berkeley (Systems & Transportation). I work at the
+intersection of autonomous-vehicle safety, traffic-flow modeling and control,
+and data-driven methods — turning messy real-world transportation data into
+models that are physically consistent and predictive.
 
 ---
 
