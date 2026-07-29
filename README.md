@@ -1,31 +1,15 @@
 # Hi, I'm Linda Lim 👋
 
-PhD Researcher at UC Berkeley (Systems &
+**Frontend Engineer** and **PhD Researcher at UC Berkeley** (Systems &
 Transportation). I build clean, user-focused web interfaces and I do research at
-the intersection of autonomous-vehicle safety, intersection traffic-flow
-modeling, control theory, and data-driven methods.
+the intersection of **autonomous-vehicle safety, intersection traffic-flow
+modeling, control theory, and data-driven methods**.
 
 I enjoy shipping polished frontend experiences as much as I enjoy turning messy
-real-world transportation data into models that are both physically
-consistent and predictive
+real-world transportation data into models that are both **physically
+consistent** and **predictive**.
 
 ---
-
-## 🛠️ Skills & tools
-
-**Frontend**
-- TypeScript / JavaScript, React, HTML5, CSS
-- Responsive, accessible, component-driven UI
-
-**Research & data**
-- Python, MATLAB
-- pandas, NumPy, scikit-learn, Jupyter
-- Koopman operator / Dynamic Mode Decomposition (DMD)
-- Model Predictive Control (MPC), Cell Transmission Model (CTM)
-- Geospatial analysis & viz: GeoPandas, kepler.gl, folium, Matplotlib
-
-**Workflow**
-- Git/GitHub, reproducible notebooks
 
 ## 🔬 Research focus
 - Autonomous-vehicle safety and collision analysis
