@@ -1,6 +1,6 @@
 # Hi, I'm Linda Lim 👋
 
-PhD Researcher at UC Berkeley (Systems & Transportation). I work at the
+Researcher at UC Berkeley (Systems & Transportation). I work at the
 intersection of autonomous-vehicle safety, traffic-flow modeling and control,
 and data-driven methods — turning messy real-world transportation data into
 models that are physically consistent and predictive.
