@@ -21,10 +21,10 @@ models that are physically consistent and predictive.
 - **[CA_DMV_CollisionsPaper](https://github.com/lindalim478/CA_DMV_CollisionsPaper)** —
   Analysis of California DMV autonomous-vehicle collision and disengagement
   reports, joined with census demographics for spatial and equity analysis.
-- **[UnifiedResponse](https://github.com/lindalim478/unifiedresponse-demo)** —
+- **[UnifiedResponse](https://github.com/lindalim478/unifiedresponse)** —
   Multi-agency emergency-response coordination demo (CAD, AVL, traffic signals,
   and V2X) fused into one operational picture on a real map.
-  **[▶ Launch the live simulation](https://lindalim478.github.io/unifiedresponse-demo/)**
+  **[▶ Launch the live simulation](https://lindalim478.github.io/unifiedresponse/)**
   — then click the **⚠ Simulate Major Incident** button to start the demo.
 - **[getschoolled](https://github.com/lindalim478/getschoolled)** —
   Collaborative full-stack web application (TypeScript/React). As a Frontend
