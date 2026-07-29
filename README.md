@@ -1,13 +1,13 @@
 # Hi, I'm Linda Lim 👋
 
-**Frontend Engineer** and **PhD Researcher at UC Berkeley** (Systems &
+Frontend Engineer and PhD Researcher at UC Berkeley (Systems &
 Transportation). I build clean, user-focused web interfaces and I do research at
-the intersection of **autonomous-vehicle safety, intersection traffic-flow
-modeling, control theory, and data-driven methods**.
+the intersection of autonomous-vehicle safety, intersection traffic-flow
+modeling, control theory, and data-driven methods.
 
 I enjoy shipping polished frontend experiences as much as I enjoy turning messy
-real-world transportation data into models that are both **physically
-consistent** and **predictive**.
+real-world transportation data into models that are both physically
+consistent and predictive.
 
 ---
 
@@ -20,8 +20,8 @@ consistent** and **predictive**.
 ## 📌 Featured projects
 
 - **[getschoolled](https://github.com/lindalim478/getschoolled)** —
-  Collaborative full-stack web application (TypeScript/React frontend). Built and
-  contributed frontend features and UI components.
+  Collaborative full-stack web application (TypeScript/React). As a Frontend
+  Engineer, I built and contributed frontend features and UI components.
 - **[LinkstoNetworksKMD-CTM](https://github.com/lindalim478/LinkstoNetworksKMD-CTM)** —
   Hankel-DMD / Koopman traffic-speed forecasting on a road network, with a Cell
   Transmission Model correction step to keep predictions physically consistent.
