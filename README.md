@@ -25,6 +25,7 @@ models that are physically consistent and predictive.
   Multi-agency emergency-response coordination demo (CAD, AVL, traffic signals,
   and V2X) fused into one operational picture on a real map.
   **[▶ Launch the live simulation](https://lindalim478.github.io/unifiedresponse-demo/)**
+  — then click the **⚠ Simulate Major Incident** button to start the demo.
 - **[getschoolled](https://github.com/lindalim478/getschoolled)** —
   Collaborative full-stack web application (TypeScript/React). As a Frontend
   Engineer, I built and contributed frontend features and UI components.
