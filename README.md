@@ -5,7 +5,7 @@ Transportation). I build clean, user-focused web interfaces and I do research at
 the intersection of autonomous-vehicle safety, intersection traffic-flow
 modeling, control theory, and data-driven methods.
 
-I enjoy shipping polished frontend experiences as much as I enjoy turning messy
+I enjoy shipping frontend experiences as much as I enjoy turning messy
 real-world transportation data into models that are both physically
 consistent and predictive.
 
